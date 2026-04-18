@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}El sistema de Valsov--Maxwell}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Dinámica microscópica y ecuación de Vlasov}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Acoplamiento electromagnético: ecuaciones de Maxwell}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Dinámica relativista}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Potenciales electromagnéticos}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Reducción unidimensional y modelos relativistas}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Resultados de existencia y unicidad}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Soluciones por características}{9}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Método numérico: esquema semi-Langrangiano}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Aproximación de las características}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Actualización de los campos electromagnéticos}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Esquema numérico completo}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Soporte compacto y estabilidad}{15}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Estudio de la convergencia}{16}{section.5}%
+\contentsline {section}{\numberline {6}Resultados numéricos}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Reducción del modelo a 1D1V: Vlasov–Poisson y la inestabilidad de los dos haces}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Inestabilidad de Weibel en el modelo 1D2V relativista}{19}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Resolución por métodos Monte Carlo: esquema PIC (Particle-in-Cell)}{21}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Conclusión}{24}{section.7}%
+\contentsline {section}{Referencias}{25}{section.7}%

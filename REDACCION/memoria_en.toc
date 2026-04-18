@@ -1,0 +1,21 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}The Vlasov--Maxwell System}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Microscopic dynamics and Vlasov equation}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Electromagnetic coupling: Maxwell equations}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Relativistic dynamics}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Electromagnetic potentials}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}One-dimensional reduction and relativistic models}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Existence and uniqueness results}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Solutions via characteristics}{9}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Numerical method: semi-Lagrangian scheme}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Characteristic approximation}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Update of electromagnetic fields}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Complete numerical scheme}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Compact support and stability}{15}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Convergence analysis}{16}{section.5}%
+\contentsline {section}{\numberline {6}Numerical results}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Reduction to 1D1V: Vlasov--Poisson and two-stream instability}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Weibel instability in 1D2V relativistic model}{19}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Solution via Monte Carlo methods: PIC (Particle-in-Cell) scheme}{22}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Conclusion}{25}{section.7}%
+\contentsline {section}{References}{26}{section.7}%
